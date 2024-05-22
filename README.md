@@ -134,8 +134,8 @@ Now that you're finished with your analysis in Google Colab, you need to get you
 
 3. Push the added files to GitHub.
 
-# Neural Network Model Report (https://github.com/kgregart/deep-learning-challenge/blob/main/Neural%20Network%20Model%20Report.pdf)
+# Neural Network Model Report
 
-![Image](https://github.com/kgregart/deep-learning-challenge/blob/main/Neural%20Network%20Model%20Report.pdf)
+(https://github.com/kgregart/deep-learning-challenge/blob/main/Neural%20Network%20Model%20Report.pdf)
 
    
