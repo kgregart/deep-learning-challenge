@@ -32,8 +32,8 @@ Start by uploading the starter file to Google Colab, then using the information 
 
 1. Read in the charity_data.csv to a Pandas DataFrame, and be sure to identify the following in your dataset:
 
-  - What variable(s) are the target(s) for your model?
-  - What variable(s) are the feature(s) for your model?
+    - What variable(s) are the target(s) for your model?
+    - What variable(s) are the feature(s) for your model?
 
 2. Drop the EIN and NAME columns.
 
@@ -79,14 +79,14 @@ Using your knowledge of TensorFlow, optimize your model to achieve a target pred
 
 Use any or all of the following methods to optimize your model:
 
-- Adjust the input data to ensure that no variables or outliers are causing confusion in the model, such as:
-- Dropping more or fewer columns.
-- Creating more bins for rare occurrences in columns.
-- Increasing or decreasing the number of values for each bin.
-- Add more neurons to a hidden layer.
-- Add more hidden layers.
-- Use different activation functions for the hidden layers.
-- Add or reduce the number of epochs to the training regimen.
+  - Adjust the input data to ensure that no variables or outliers are causing confusion in the model, such as:
+  - Dropping more or fewer columns.
+  - Creating more bins for rare occurrences in columns.
+  - Increasing or decreasing the number of values for each bin.
+  - Add more neurons to a hidden layer.
+  - Add more hidden layers.
+  - Use different activation functions for the hidden layers.
+  - Add or reduce the number of epochs to the training regimen.
 
 _Note: If you make at least three attempts at optimizing your model, you will not lose points if your model does not achieve target performance._
 
@@ -110,17 +110,17 @@ The report should contain the following:
 
 2. Results: Using bulleted lists and images to support your answers, address the following questions:
 
-- Data Preprocessing
+  - Data Preprocessing
 
-  - What variable(s) are the target(s) for your model?
-  - What variable(s) are the features for your model?
-  - What variable(s) should be removed from the input data because they are neither targets nor features?
+    - What variable(s) are the target(s) for your model?
+    - What variable(s) are the features for your model?
+    - What variable(s) should be removed from the input data because they are neither targets nor features?
 
--Compiling, Training, and Evaluating the Model
+  - Compiling, Training, and Evaluating the Model
 
-  - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-  - Were you able to achieve the target model performance?
-  - What steps did you take in your attempts to increase model performance?
+    - How many neurons, layers, and activation functions did you select for your neural network model, and why?
+    - Were you able to achieve the target model performance?
+    - What steps did you take in your attempts to increase model performance?
 
 3. Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
