@@ -136,6 +136,7 @@ Now that you're finished with your analysis in Google Colab, you need to get you
 
 # Neural Network Model Report
 
-(https://github.com/kgregart/deep-learning-challenge/blob/main/Neural%20Network%20Model%20Report.pdf)
+[Results Summary](https://github.com/kgregart/deep-learning-challenge/blob/main/Neural%20Network%20Model%20Report.pdf)
+
 
    
