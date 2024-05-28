@@ -1,5 +1,7 @@
 # deep-learning-challenge
 
+![ai](https://github.com/kgregart/deep-learning-challenge/blob/main/Images/ai.jpg)
+
 # Overview
 
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. 
